@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Sergio! Welcome to my GitHub Profile!
 
+<p align="center">
+  <strong>👋 Hi there, I'm Sergio! Welcome to my GitHub Profile!</strong>
+</p>
+
 <br/>
 
 I'm a versatile Full Stack Developer hailing from Spain with a knack for turning ideas into code and a love for creativity and problem-solving. 
