@@ -13,12 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, I'm Sergio! Welcome to my GitHub profile!
+## 👋 Hi there, I'm Sergio! Welcome to my GitHub Profile!
 
-I'm a Full Stack Developer based in Spain.
+![Banner Image](link_to_your_image)
 
+<br/>
 
-### 🛠️ Tools and Technologies...
+I'm a versatile Full Stack Developer hailing from Spain with a knack for turning ideas into code and a love for creativity and problem-solving. 
+Whether it's crafting a responsive website or implementing a complex algorithm, I am always up for the challenge.
+
+<br/>
+
+### 🛠️ My Toolkit...
 
 ![Python Icon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 ) ![JavaScript Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
@@ -33,6 +39,33 @@ I'm a Full Stack Developer based in Spain.
 ) ![Git Icon](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )
 
+<br/>
+
+<!--
+### 💡 Currently...
+
+I am currently exploring the realms of [Tech you're learning]. Really excited about the possibilities that [Tech you're learning] opens up!
+
+<br/>
+
+### 📚 I’m looking to collaborate on...
+
+Open to collaborating on innovative projects that utilize my skills. Particularly interested in [Your interests].
+
+<br/>
+
+### 💼 Experience...
+
+I've had the privilege of working at (or: I'm currently working at) [Your Current Job or Your Previous Job]
+
+<br/>
+-->
+
+
 ### 🌍 Get in touch...
 
-Whether you want to collaborate on a project, discuss technology, or simply chat, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sergiolopezsouto/).
+Let's connect! Whether you want to collaborate on a project, discuss technology, or simply chat, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sergiolopezsouto/).
+
+<br/>
+
+![Animated gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
