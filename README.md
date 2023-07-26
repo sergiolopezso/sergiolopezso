@@ -71,8 +71,11 @@ I've had the privilege of working at (or: I'm currently working at) [Your Curren
 
 ### 🌍 Get in touch...
 
-Let's connect! Whether you want to collaborate on a project, discuss technology, or simply chat, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sergiolopezsouto/).
+Let's connect! Whether you want to discuss, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sergiolopezsouto/).
 
 <br/>
+<br/>
 
-![Animated gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animated gif">
+</p>
