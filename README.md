@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </h2>
 
 <br/>
-<br/>
 
 I'm a versatile Full Stack Developer hailing from Spain with a knack for turning ideas into code and a love for creativity and problem-solving. 
 Whether it's crafting a responsive website or implementing a complex algorithm, I am always up for the challenge.
@@ -74,7 +73,6 @@ I've had the privilege of working at (or: I'm currently working at) [Your Curren
 
 Let's connect! Whether you want to discuss, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sergiolopezsouto/).
 
-<br/>
 <br/>
 
 
