@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center">
+<h2 align="center">
   <strong>👋 Hi there, I'm Sergio! Welcome to my GitHub Profile!</strong>
-</p>
+</h2>
 
 <br/>
 
