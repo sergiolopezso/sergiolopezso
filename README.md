@@ -13,15 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Sergio! Welcome to my GitHub profile!
+## 👋 Hi there, I'm Sergio! Welcome to my GitHub profile!
 
-I'm a Full Stack Developer based in Spain 
+I'm a Full Stack Developer based in Spain.
 
 
-## 🛠️ Tools and Technologies...
+### 🛠️ Tools and Technologies...
 
-![Python Icon](link_to_python_icon) ![JavaScript Icon](link_to_js_icon) ![TypeScript Icon](link_to_ts_icon) ![React Icon](link_to_react_icon) ![NextJS Icon](link_to_nextjs_icon) ![NodeJS Icon](link_to_nodejs_icon) ![ExpressJS Icon](link_to_expressjs_icon) ![MySQL Icon](link_to_mysql_icon) ![MongoDB Icon](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python Icon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+) ![JavaScript Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+) ![TypeScript Icon](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+) ![React Icon](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+) ![NextJS Icon](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+) ![NodeJS Icon](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+) ![ExpressJS Icon](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+) ![MySQL Icon](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+) ![PostgreSQL Icon](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+) ![MongoDB Icon](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+) ![Git Icon](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+)
 
-## 🌍 Get in touch...
+### 🌍 Get in touch...
 
 Whether you want to collaborate on a project, discuss technology, or simply chat, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sergiolopezsouto/).
