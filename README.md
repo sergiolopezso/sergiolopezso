@@ -24,7 +24,7 @@ LOGOS -> https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
 
 <br/>
 
-I'm a versatile Full Stack Developer hailing from Spain with a knack for turning ideas into code and a love for creativity and problem-solving. 
+* I'm a versatile Full Stack Developer hailing from Spain with a knack for turning ideas into code and a love for creativity and problem-solving. 
 Whether it's crafting a responsive website or implementing a complex algorithm, I am always up for the challenge.
 
 <br/>
