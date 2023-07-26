@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </h2>
 
 <br/>
+<br/>
 
 I'm a versatile Full Stack Developer hailing from Spain with a knack for turning ideas into code and a love for creativity and problem-solving. 
 Whether it's crafting a responsive website or implementing a complex algorithm, I am always up for the challenge.
@@ -79,3 +80,5 @@ Let's connect! Whether you want to discuss, feel free to contact me via [LinkedI
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animated gif">
 </p>
+
+<br/>
