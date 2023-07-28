@@ -1,4 +1,5 @@
 <!--
+
 **sergiolopezsouto/sergiolopezsouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 // LOGOS -> https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
@@ -25,6 +26,7 @@ Whether it's crafting a responsive website or implementing a complex algorithm, 
 ![TypeScript Icon](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ![React Icon](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Redux Icon](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ![NextJS Icon](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Tailwind Icon](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![ReactNative Icon](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
