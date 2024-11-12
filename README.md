@@ -1,3 +1,5 @@
+<br/> 
+
 ### Hi there! I'm Sergio 👋 
 
 👨🏼‍💻 Software Engineer <br/> 
