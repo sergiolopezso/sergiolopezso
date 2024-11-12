@@ -1,3 +1,5 @@
+<br/> 
+
 ### Hi there! I'm Sergio 👋 
 
 👨🏼‍💻 Software Engineer <br/> 
@@ -9,3 +11,5 @@
 <br/> 
 
 → Let's connect! If you’d like to discuss something, feel free to contact me! 
+
+<br/> 
